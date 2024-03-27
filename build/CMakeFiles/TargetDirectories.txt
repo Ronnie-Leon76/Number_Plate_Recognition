@@ -1,0 +1,6 @@
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/ANPR.dir
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/trainSVM.dir
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/trainOCR.dir
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/evalOCR.dir
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/edit_cache.dir
+/home/adeptschneiderthedev/Number_Plate_Recognition/build/CMakeFiles/rebuild_cache.dir
