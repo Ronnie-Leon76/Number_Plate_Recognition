@@ -32,4 +32,4 @@ Windows (MS Visual Studio):
 ----------------------------------------------------------
 Running the project:
 ----------------------------------------------------------
-    ../ANPR <image_filename>
+    ./ANPR <image_filename>
