@@ -25,7 +25,7 @@ Windows (MS Visual Studio):
     set OpenCV_DIR="C:\OpenCV\build"
     mkdir build
     cd build
-    cmake -G "Visual Studio 9 2008" -D OpenCV_DIR=%OpenCV_DIR% ..
+    cmake -G "Visual Studio 9 2020" -D OpenCV_DIR=%OpenCV_DIR% ..
     start ANPR.sln 
 
     
